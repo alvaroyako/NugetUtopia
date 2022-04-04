@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>NugetUtopiaAMH</PackageId>
+    <Authors>Alvaro Moya Herraiz</Authors>
+    <Description>Nuget para proyecto</Description>
+  </PropertyGroup>
+
+</Project>
