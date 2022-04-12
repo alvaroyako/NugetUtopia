@@ -32,5 +32,8 @@ namespace NugetUtopia
 
         [Column("ROL")]
         public string Rol { get; set; }
+
+        [NotMapped]
+        public string PasswordString { get; set; }
     }
 }
